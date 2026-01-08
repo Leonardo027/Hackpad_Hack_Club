@@ -24,4 +24,5 @@ A custom 3x3 mechanical macropad powered by the Seeed XIAO RP2040 using KMK Firm
 ![Schematic](schematic.png)
 
 ### PCB Layout
-![PCB](pcb_foto.png)
+
+![PCB](pcbfoto.png)
