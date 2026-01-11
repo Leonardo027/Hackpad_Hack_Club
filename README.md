@@ -14,7 +14,7 @@ Here are pictures of my pcb design:
 
 | **Schematic** | **PCB** |
 |---------------|---------|
-|![](img/esquematico.PNG)|![](Macro_Pad_4x4/img/esquematico.PNG)|
+|![](Macro_Pad_4x4/img/esquematico.PNG)|![](Macro_Pad_4x4/img/pcb_view.PNG)|
 
 I designed this to be compact but functional. The routing was a challenge but I learned a lot about KiCad!
 
