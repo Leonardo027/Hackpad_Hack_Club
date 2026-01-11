@@ -14,7 +14,7 @@ Here are pictures of my pcb design:
 
 | **Schematic** | **PCB** |
 |---------------|---------|
-|![](img/esquematico.png)|![](img/pcb_view.PNG)|
+|![](img/esquematico.PNG)|![](img/pcb_view.PNG)|
 
 I designed this to be compact but functional. The routing was a challenge but I learned a lot about KiCad!
 
@@ -49,3 +49,4 @@ Making this pad was an amazing journey. I started not knowing much about Fusion 
 - 3D Printed Case (PLA/PETG)
 
 - M3 Screws and Nuts
+
