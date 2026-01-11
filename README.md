@@ -14,11 +14,11 @@ Here are pictures of my pcb design:
 
 | **Schematic** | **PCB** |
 |---------------|---------|
-|![](img/esquematico.PNG)|![](img/pcb_view.PNG)|
+|![](img/esquematico.PNG)|![](Macro_Pad_4x4/img/esquematico.PNG)|
 
 I designed this to be compact but functional. The routing was a challenge but I learned a lot about KiCad!
 
-![](img/pcb_render.PNG)
+![](Macro_Pad_4x4/img/pcb_render.PNG)
 
 [x] I ran DRC and there are 0 errors
 
@@ -27,8 +27,8 @@ Designed using Autodesk Fusion 360!
 
 It was a learning curve moving to 3D modeling, but I managed to create a case that snaps together (or uses screws). The OLED and Encoder fit perfectly in the top plate.
 
-![](img/macro_pad_full.PNG)
-![](img/render_case.PNG)
+![](Macro_Pad_4x4/img/macro_pad_full.PNG)
+![](Macro_Pad_4x4/img/render_case.PNG)
 
 Everything fits together with standard M3 screws.
 
